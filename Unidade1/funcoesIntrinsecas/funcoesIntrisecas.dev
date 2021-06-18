@@ -1,6 +1,11 @@
 [Project]
+<<<<<<< Updated upstream:Unidade1/funcoesIntrinsecas/funcoesIntrisecas.dev
 FileName=funcoesIntrisecas.dev
 Name=funcoesIntrisecas
+=======
+FileName=EntradaESaida.dev
+Name=EntradaESaida
+>>>>>>> Stashed changes:Unidade1/EntradaESaida/EntradaESaida.dev
 Type=1
 Ver=2
 ObjFiles=
