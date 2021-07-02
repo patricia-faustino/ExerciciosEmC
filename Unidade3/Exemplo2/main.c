@@ -4,9 +4,15 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	int i;
-	for(i = 0; i < 10; i++){
-		printf("\n%d", i);
+	/*while(<condicao>){
+		<bloco de comandos>
+	}*/
+	int i = 0;
+	
+	while(i<100){
+		printf("\nAguarde....");
+		printf(" \n%d", i);
+		i++;
 	}
 	return 0;
 }
